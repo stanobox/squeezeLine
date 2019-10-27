@@ -1,11 +1,11 @@
 
 
 # squeezeLine milestones:
--------------------------
+
 
 
 ## raw list of ideas:
----------------------
+
 
 Given these [requirements](project_requirements.md), I can define the first few milestones here:
 
