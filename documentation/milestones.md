@@ -6,11 +6,27 @@
 
 Given these [requirements](project_requirements.md), I can define the first few milestones here:
 
-###  TDD / DDD
+### dev environment:
 
-choose which framework to use
+#### IDE
 
-### UI:
+* CLion
+* Qtcreator
+* C/C++ for Visual Studio Code
+* vim ( not now, too early )
+* other?
+
+#### dev tool chain
+
+* cmake
+* make / autotools
+* bash scripting
+
+####  TDD / DDD
+
+choose which framework to use (?)
+
+#### UI:
 
 I need to implement the timeline with tracks and clips
 
