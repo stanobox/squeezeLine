@@ -4,14 +4,14 @@
 
 ## raw list of ideas:
 
-Given these [requirements](project_requirements.md),\
+Given these [requirements](./project_requirements.md),\
 A **more easy goal** would be to have the UI being controlled via a choosen MIDI channel.
 **Leavin behind**, _at first_, the whole **GPIO thing**.
 
 A little compromise =).
 
 
-this is the project **reasonable** first goal ![Project reasonable goal](./sqeezeLine.reasonableGoal.png)
+this is the project **reasonable** first goal ![Project reasonable goal](./resources/sqeezeLine.reasonableGoal.png)
 
 
 I can define the first few milestones here:

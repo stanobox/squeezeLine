@@ -9,7 +9,7 @@
 The final "wanna be" is to be a simple MIDI Sequencer, running on a little device, like Raspberry Pi.
 
 
-this is the project "wannabe" ![Project wannabe](./sqeezeLine.wannabe.png)
+this is the project "wannabe" ![Project wannabe](./resources/sqeezeLine.wannabe.png)
 
 
 ## product requirements:
