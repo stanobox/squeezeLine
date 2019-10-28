@@ -9,6 +9,9 @@
 The final "wanna be" is to be a simple MIDI Sequencer, running on a little device, like Raspberry Pi.
 
 
+this is the project "wannabe" ![Project wannabe](./sqeezeLine.wannabe.png)
+
+
 ## product requirements:
         
 There will be a horizontal timeline, filled with MIDI tracks\

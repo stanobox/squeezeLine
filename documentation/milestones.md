@@ -4,17 +4,30 @@
 
 ## raw list of ideas:
 
-Given these [requirements](project_requirements.md), I can define the first few milestones here:
+Given these [requirements](project_requirements.md),\
+A **more easy goal** would be to have the UI being controlled via a choosen MIDI channel.
+**Leavin behind**, _at first_, the whole **GPIO thing**.
+
+A little compromise =).
+
+
+this is the project **reasonable** first goal ![Project reasonable goal](./sqeezeLine.reasonableGoal.png)
+
+
+I can define the first few milestones here:
 
 ### dev environment:
 
 #### IDE
 
+Given some suggestion, the choice for the IDE will be made between:
 * CLion
 * Qtcreator
-* C/C++ for Visual Studio Code
-* vim ( not now, too early )
-* other?
+
+These were discarded:
+* C/C++ for Visual Studio Code // no particular reason
+* vim // too "bare metal" to start learning C++
+
 
 #### dev tool chain
 
