@@ -5,14 +5,19 @@
 
 ## target:
 
-The final "wanna be" is to be a simple MIDI Sequencer, running on a little device, like Raspberry Pi.
+The final "wanna be" is to be a **simple MIDI Sequencer**, running on a little device.\
+Hopefully _no mouse, no keyboard_. Just a screen and **knobs, buttons**.\
 
 
 This is the project "wannabe" :
 
 ![Project wannabe](./resources/sqeezeLine.wannabe.png)
 
+###
 
+The intended target platform would be linux .\
+The final idea would be to have a MIDI sequencer controlled by a "physical" interface.
+So an easy option would be to use something like **GPIO on Raspberry Pi**, for instance.\
 
 ## product requirements:
         
