@@ -16,8 +16,8 @@ This is the project "wannabe" :
 ###
 
 The intended target platform would be linux .\
-The final idea would be to have a MIDI sequencer controlled by a "physical" interface.
-So an easy option would be to use something like **GPIO on Raspberry Pi**, for instance.\
+The final idea would be to have a MIDI sequencer controlled by a "physical" interface.\
+So an easy option would be to use something like **GPIO on Raspberry Pi**, for instance.
 
 ## product requirements:
         
