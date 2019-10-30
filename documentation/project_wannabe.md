@@ -1,7 +1,6 @@
 
 
-# squeezeLine requirements:
-
+# squeezeLine wannabe:
 
 
 ## target:
