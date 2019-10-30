@@ -6,8 +6,8 @@
 
 Given these [ideas](project_wannabe.md), we can target a **more feasible and easy goal** by splitting the "project wannabe" into different big steps.
 * Since raspberry Pi was chosen just to have a broadly known target platform with GPIO,\
-  to start learning C++, will be more convenient to *develop on a generic linux machine* .
-* **Leaving behind**, _at first_, the whole **GPIO stuff**, we could have the UI being controlled via a chosen MIDI channel among the 16 available.
+  to start learning C++, will be more convenient to **develop on a generic linux machine** .
+* **Leaving beside**, _at first_, **the** whole **GPIO stuff**, we could have the UI being controlled via a chosen MIDI channel among the 16 available.
 
 this could be the first Project reasonable big goal ![Project reasonable big goal](resources/sqeezeLine.reasonableBigGoal.png)
 
@@ -25,11 +25,11 @@ I need to implement the timeline with tracks and clips
 
 which toolkit is ok for this ?
 
-Juce ( well documented ) // this would be cool, since it provides "nearly" everything, and it's though for audio application from scratch.
-Nuklear ( beign "Immediate Mode" forces me to learn more... )
-Qt ( personally I'm a bit skeptical about this, being it really heavy )
+**Juce** ( well documented ) // this would be cool, since it provides "nearly" everything, and it's though for audio application from scratch.\
+**Nuklear** ( beign "Immediate Mode" forces me to learn more... )\
+**Qt** ( personally I'm a bit skeptical about this, being it really heavy )\
 
-On top of that, it could be nice to use GuiLite within another framework ( Juce or Qt, mainly )
+On top of that, it could be nice to use **GuiLite within another framework** ( Juce or Qt, mainly )
 
 
 
@@ -37,8 +37,8 @@ On top of that, it could be nice to use GuiLite within another framework ( Juce 
 
 The final decision, actually, is left to the developer, obviously.\
 I was given some suggestion, so the choice for the IDE will be made between:
-* CLion
-* Qtcreator
+* **CLion**
+* **Qtcreator**
 
 These were discarded:
 * C/C++ for Visual Studio Code // no particular reason
@@ -49,8 +49,8 @@ These were discarded:
 #### Tool chain:
 
 the choice will be made among
-* cmake
-* qmake
+* **cmake**
+* **qmake**
 and will be likely determined by the IDE.
 
 These were discarded:
