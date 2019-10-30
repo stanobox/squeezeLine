@@ -9,7 +9,11 @@ Given these [ideas](project_wannabe.md), we can target a **more feasible and eas
   to start learning C++, will be more convenient to **develop on a generic linux machine** .
 * **Leaving beside**, _at first_, **the** whole **GPIO stuff**, we could have the UI being controlled via a chosen MIDI channel among the 16 available.
 
-this could be the first Project reasonable big goal ![Project reasonable big goal](resources/sqeezeLine.reasonableBigGoal.png)
+This could be the first Project reasonable big goal:
+
+![Project reasonable big goal](resources/sqeezeLine.reasonableBigGoal.png)
+
+
 
 
 ## All that being said
@@ -51,6 +55,7 @@ These were discarded:
 the choice will be made among
 * **cmake**
 * **qmake**
+
 and will be likely determined by the IDE.
 
 These were discarded:

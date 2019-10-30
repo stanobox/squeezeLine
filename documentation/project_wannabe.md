@@ -8,24 +8,27 @@
 The final "wanna be" is to be a simple MIDI Sequencer, running on a little device, like Raspberry Pi.
 
 
-this is the project "wannabe" ![Project wannabe](./resources/sqeezeLine.wannabe.png)
+This is the project "wannabe" :
+
+![Project wannabe](./resources/sqeezeLine.wannabe.png)
+
 
 
 ## product requirements:
         
 There will be a horizontal timeline, filled with MIDI tracks\
 Each track will host MIDI events and will allow event editing.\
-Many similar projects use ALSA, I would do the same.\
+Many similar projects use ALSA, I would do the same.
 
     input
     -----
 
-        -GPIO for control purposes
-        -ALSA -> USB/MIDI interface to control external devices
+        * GPIO for control purposes
+        * ALSA -> USB/MIDI interface to control external devices
         
     output
     -----
-        -ALSA -> USB/MIDI interface to record events
+        * ALSA -> USB/MIDI interface to record events
 
 
 The final artifact will be an
@@ -38,5 +41,6 @@ Ideally, every functionality would be operated by "physical" controls, like
 
 ## development requirements:
 
-Would like to develop in a **TDD / DDD manner**\, with automated tests at each build
+Would like to develop in a **TDD / DDD manner**, \
+with **automated tests** at each build
 
