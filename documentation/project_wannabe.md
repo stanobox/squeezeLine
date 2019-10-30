@@ -6,7 +6,7 @@
 ## target:
 
 The final "wanna be" is to be a **simple MIDI Sequencer**, running on a little device.\
-Hopefully _no mouse, no keyboard_. Just a screen and **knobs, buttons**.\
+Hopefully _no mouse, no keyboard_. Just a screen and **knobs, buttons**.
 
 
 This is the project "wannabe" :
