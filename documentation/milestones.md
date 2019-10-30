@@ -4,10 +4,11 @@
 
 ## A little compromise =) :
 
-Given these [ideas](project_wannabe.md), we can target a **more feasible and easy goal** by splitting the "project wannabe" into different big steps.
+Given [these ideas](project_wannabe.md), we can target a **more feasible and easy goal** by splitting the "project wannabe" into different big steps.
 * Since raspberry Pi was chosen just to have a broadly known target platform with GPIO,\
   to start learning C++, will be more convenient to **develop on a generic linux machine** .
-* **Leaving beside**, _at first_, **the** whole **GPIO stuff**, we could have the UI being controlled via a chosen MIDI channel among the 16 available.
+* Also, would be in help, _at first_, **leaving beside** the whole **GPIO stuff**:\
+  we could have the UI being controlled via a chosen MIDI channel among the 16 available.
 
 This could be the first Project reasonable big goal:
 
@@ -24,9 +25,9 @@ The first few milestones here:
 
 #### UI framework:
 
-This choice will drive the whole dev env setup, mainly.\
-I need to implement the timeline with tracks and clips
+This choice will drive the whole dev env setup, mainly.
 
+Need to implement the timeline with tracks and clips...\
 which toolkit is ok for this ?
 
 **Juce** ( well documented ) // this would be cool, since it provides "nearly" everything, and it's though for audio application from scratch.\
@@ -45,7 +46,7 @@ I was given some suggestion, so the choice for the IDE will be made between:
 * **Qtcreator**
 
 These were discarded:
-* C/C++ for Visual Studio Code // no particular reason
+* C/C++ for Visual Studio Code // for no particular reason
 * vim // too "bare metal" to start learning C++
 
 
