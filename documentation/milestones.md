@@ -11,7 +11,7 @@ I need to get confidence on language basics and then move forward to learn more 
 
 
 ## All that being said
-Some consideration about the ![dev environment here](./dev_environment.md)
+Some consideration about the [dev environment here](./dev_environment.md)
 
 
 ## milestone: getting the environment set up
@@ -28,22 +28,15 @@ will output the corresponding note NAME ( C, C#, D, and so on... )
 Generating an event at a given "BPM". "BPM" should be variable by user input ( +/- )
 
 
-## other milestones:
+## more milestones :
 
 [...] still need to decide what's next.
 
 
 ## "A bit far" milestone:
-
-* Given the final goal of ths project (see the last milestone below ), it would help to **leave beside** the whole **GPIO stuff**:\
-  we could have the UI being controlled via a chosen MIDI channel among the 16 available reading a standard MIDI input.
-* Since, as "project final goal", a raspberry Pi was chosen just to have a broadly known target platform with GPIO,\
-  it will be more convenient to **develop on a generic linux machine** in the first place .
-
-This could be the next big goal:
-
-![Project reasonable big goal](./resources/sqeezeLine.reasonableBigGoal.png)
+A big step towards the final result:\
+[Project reasonable big goal](./project_big_step.md)
 
 
-## "final" milestone:
+## ultimate milestone:
 [These ideas](./project_wannabe.md) explaing the project goal.
